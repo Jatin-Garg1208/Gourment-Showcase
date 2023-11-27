@@ -20,7 +20,7 @@ label{
 }
 
 .space {
-    margin-left: 10.8em;
+    margin-left: 8.2em;
 }
 
 .spa {
@@ -28,7 +28,7 @@ label{
 }
 
 .sp {
-    margin-left: 5em;
+    margin-left: 3em;
 }
 
 .shape {
@@ -93,4 +93,16 @@ label{
     opacity: 1; 
   }
 
+.color{ font-size: xx-large;
+  color: aquamarine;
+ -webkit-text-stroke-color: black;
+-webkit-text-stroke-width: 1px;}
+
+.colors{  color: black;
+   -webkit-text-stroke-color:coral;
+  -webkit-text-stroke-width: 1px;}
+
+  .colrs{  color: black;
+    -webkit-text-stroke-color: #08ff8c;
+   -webkit-text-stroke-width: 1px;}
   
